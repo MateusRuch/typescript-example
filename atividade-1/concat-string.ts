@@ -1,6 +1,4 @@
-function concatenar(lista:string[]){
-    let resultado_concatenado = lista.join(" ");
-    return resultado_concatenado;
+let concatenar = (array:string[]): string => {
+    return array.join(" ")
 }
-
 export{concatenar}
