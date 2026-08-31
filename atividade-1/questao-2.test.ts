@@ -1,4 +1,4 @@
-import { concatenar } from "./concat-string";
+import { concatenar } from "./questao-2";
 
 test('Teste de concatenação', () => {
     const resultado_teste = concatenar(['Arrays', 'com', 'TypeScript']);

@@ -1,4 +1,4 @@
-import {ordenacao_decrescente} from "./ordenacao";
+import {ordenacao_decrescente} from "./questao-3";
 
 test('Teste de ordenação decrescente de string', () => {
     const resultado_teste = ordenacao_decrescente(['carro', 'boneco', 'ave', 'lapis']);

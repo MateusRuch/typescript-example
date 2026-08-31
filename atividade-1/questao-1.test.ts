@@ -1,4 +1,4 @@
-import { potenciaForArray, potenciaForEachArray} from './quadrado';
+import { potenciaForArray, potenciaForEachArray} from './questao-1';
 
 test('Teste com um for simples:', () => {
     let resultado_teste_for = potenciaForArray([3, 5, 7, 3, 8, 9, 1]);

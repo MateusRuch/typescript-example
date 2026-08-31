@@ -1,3 +1,7 @@
+// Crie um programa que calcule o quadrado de cada elemento de um array utilizando duas estratégias:
+// a) Iterando com "for" simples.
+// b) Iterando com "forEach".
+
 function potenciaForArray( lista: number[]) {
 
     for (var i = 0; i < lista.length; i++) {

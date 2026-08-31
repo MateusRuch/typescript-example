@@ -1,3 +1,5 @@
+//  Leia o array e pegue apenas os dois primeiros elementos utilizando o método SLICE do Array.
+
 let extracao_dois_primeiros = (array:number[]) =>{
     return array.slice(0,2);
 }
