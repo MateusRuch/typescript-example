@@ -1,4 +1,3 @@
-import { TestRunner } from "vitest";
 import {Ave,Peixe} from "./questao-6";
 
 test("Teste da classe peixe", () => {
